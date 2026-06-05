@@ -1,0 +1,316 @@
+{
+  "/portfolio/__docusaurus/debug-040": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/config-9ca": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/content-da5": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    },
+    "__props": "__props---portfolio-docusaurus-debug-content-01-e-b86"
+  },
+  "/portfolio/__docusaurus/debug/globalData-46a": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/metadata-138": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/registry-3df": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/routes-dd6": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/blog-3fe": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-804-4ba"
+      },
+      {
+        "content": "content---portfolio-blogf-4-f-62a"
+      },
+      {
+        "content": "content---portfolio-blog-15-d-843"
+      },
+      {
+        "content": "content---portfolio-blog-1-f-4-d02"
+      }
+    ],
+    "__props": "__props---portfolio-blog-720-1e0"
+  },
+  "/portfolio/blog/archive-5f2": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "__props": "__props---portfolio-blog-archivef-7-b-74d"
+  },
+  "/portfolio/blog/authors-569": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---portfolio-blog-authorsace-023"
+      },
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "__props": "__props---portfolio-blog-authors-7-a-0-df2"
+  },
+  "/portfolio/blog/authors/all-sebastien-lorber-articles-4e7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---portfolio-blog-authorsace-023"
+      },
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "items": [
+      {
+        "content": "content---portfolio-blog-804-4ba"
+      },
+      {
+        "content": "content---portfolio-blogf-4-f-62a"
+      },
+      {
+        "content": "content---portfolio-blog-1-f-4-d02"
+      }
+    ],
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "__props": "__props---portfolio-blog-authors-all-sebastien-lorber-articles-2-e-3-6ca"
+  },
+  "/portfolio/blog/authors/yangshun-2c6": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---portfolio-blog-authorsace-023"
+      },
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "items": [
+      {
+        "content": "content---portfolio-blog-804-4ba"
+      },
+      {
+        "content": "content---portfolio-blog-15-d-843"
+      },
+      {
+        "content": "content---portfolio-blog-1-f-4-d02"
+      }
+    ],
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "__props": "__props---portfolio-blog-authors-yangshun-02-f-b61"
+  },
+  "/portfolio/blog/first-blog-post-3be": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---portfolio-blog-authorsace-023"
+      },
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "content": "content---portfolio-blog-first-blog-postfef-43a"
+  },
+  "/portfolio/blog/long-blog-post-0b6": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---portfolio-blog-authorsace-023"
+      },
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "content": "content---portfolio-blog-long-blog-postd-66-24c"
+  },
+  "/portfolio/blog/mdx-blog-post-dbe": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---portfolio-blog-authorsace-023"
+      },
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "content": "content---portfolio-blog-mdx-blog-post-593-38e"
+  },
+  "/portfolio/blog/tags-921": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "__props": "__props---portfolio-blog-tagsfe-5-1d6"
+  },
+  "/portfolio/blog/tags/docusaurus-c72": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-804-4ba"
+      },
+      {
+        "content": "content---portfolio-blogf-4-f-62a"
+      },
+      {
+        "content": "content---portfolio-blog-15-d-843"
+      },
+      {
+        "content": "content---portfolio-blog-1-f-4-d02"
+      }
+    ],
+    "__props": "__props---portfolio-blog-tags-docusaurus-1-c-1-4b3"
+  },
+  "/portfolio/blog/tags/facebook-40e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-804-4ba"
+      }
+    ],
+    "__props": "__props---portfolio-blog-tags-facebook-893-748"
+  },
+  "/portfolio/blog/tags/hello-c10": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-804-4ba"
+      },
+      {
+        "content": "content---portfolio-blog-15-d-843"
+      }
+    ],
+    "__props": "__props---portfolio-blog-tags-hello-89-f-ea1"
+  },
+  "/portfolio/blog/tags/hola-006": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-1-f-4-d02"
+      }
+    ],
+    "__props": "__props---portfolio-blog-tags-holac-2-a-d0f"
+  },
+  "/portfolio/blog/welcome-869": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---portfolio-blog-authorsace-023"
+      },
+      "plugin": "plugin---portfolio-blog-369-566"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "content": "content---portfolio-blog-welcome-718-d55"
+  },
+  "/portfolio/markdown-page-642": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---portfolio-markdown-pagea-74-fc4"
+    },
+    "content": "content---portfolio-markdown-page-4-c-6-c8d"
+  },
+  "/portfolio/docs-346": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---portfolio-docsaba-85b"
+    }
+  },
+  "/portfolio/docs-1b6": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---portfolio-docs-062-775"
+  },
+  "/portfolio/docs-261": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/portfolio/docs/category/tutorial---basics-e44": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---portfolio-docs-category-tutorial-basicsa-7-f-e1c"
+  },
+  "/portfolio/docs/category/tutorial---extras-e1d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---portfolio-docs-category-tutorial-extras-032-229"
+  },
+  "/portfolio/docs/intro-710": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-introf-84-697"
+  },
+  "/portfolio/docs/tutorial-basics/congratulations-bb6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-tutorial-basics-congratulationsd-20-dc4"
+  },
+  "/portfolio/docs/tutorial-basics/create-a-blog-post-f39": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-tutorial-basics-create-a-blog-postbcf-649"
+  },
+  "/portfolio/docs/tutorial-basics/create-a-document-219": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-tutorial-basics-create-a-documentc-88-96b"
+  },
+  "/portfolio/docs/tutorial-basics/create-a-page-479": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-tutorial-basics-create-a-page-41-f-dcf"
+  },
+  "/portfolio/docs/tutorial-basics/deploy-your-site-043": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-tutorial-basics-deploy-your-site-8-b-4-dde"
+  },
+  "/portfolio/docs/tutorial-basics/markdown-features-6f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-tutorial-basics-markdown-features-18-c-7a2"
+  },
+  "/portfolio/docs/tutorial-extras/manage-docs-versions-06b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-tutorial-extras-manage-docs-versionsaf-3-78c"
+  },
+  "/portfolio/docs/tutorial-extras/translate-your-site-dff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-tutorial-extras-translate-your-site-25-a-ca8"
+  },
+  "/portfolio/-acb": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---portfolio-markdown-pagea-74-fc4"
+    },
+    "config": "config---portfolio-5-e-9-9af"
+  }
+}
